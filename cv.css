@@ -1,0 +1,28 @@
+/* Black thick line under all headings*/
+.Header {
+    border-bottom: 6px solid black;
+}
+
+.image {
+    display: inline-block;
+}
+
+.info {
+    display: inline-block;
+    text-align: center;
+    padding-left: 60%;
+}
+
+.list {
+    display: inline-block
+}
+
+.edu {
+    display: inline-block;
+}
+
+.edu1 {
+    display: inline-block;
+    padding-right: 49%;
+    font-weight: bold;
+}
