@@ -1,0 +1,41 @@
+.center{
+
+}
+
+h1,h4{
+    color: rgb(32, 32, 180);
+    text-align: center;
+    line-height:16px;
+}
+p.firstp{
+    border: 1px solid  rgb(62, 99, 158);
+    width: 17%;
+    height: 35px;
+    background-color: rgb(62, 99, 158);
+    color: white;
+    padding-top: 6px;
+    display: inline-block;
+    margin-left: 41%;
+    margin-top: 1px;
+    text-align: center;
+}
+.friday,.monday{
+    border: 1px white solid;
+    background-color: white;
+    width: 22%;
+    height: 100px;
+    line-height: 17px;
+    text-align: center;
+    margin-left: 39%;
+    margin-top: 20px;
+}
+.saturday,.sunday{
+    border: 1px rgb(173,216,230) solid;
+    background-color: rgb(173,216,230);
+    width: 22%;
+    height: 100px;
+    line-height: 17px;
+    text-align: center;
+    margin-left: 39%;
+    margin-top: 20px;
+}
