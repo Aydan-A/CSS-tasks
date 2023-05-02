@@ -1,0 +1,52 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#p {
+    color: white;
+    text-align: left
+}
+
+#p1 {
+    color: white;
+    text-align: center
+}
+.input {
+    width: 90%;
+    height: 40px;
+    background-color: white;
+    border: rgb(111, 120, 147);
+    margin: 10px;
+
+}
+
+.form {
+    border: 2px solid;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin-left: 35%;
+    width: 30%;
+    height: 590px;
+    margin: auto;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.64) ), url(../Pics/q.webp);
+    background-repeat: no-repeat;
+    background-origin: border-box
+}
+
+
+button[type="submit"]  {
+    width: 90%;
+    height: 39px;
+    color: white;
+    background-color: rgba(36, 171, 24, 0.744);
+    cursor: pointer;
+}
