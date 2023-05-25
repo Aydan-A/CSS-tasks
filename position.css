@@ -23,7 +23,7 @@
     background-color: yellow;
     left: 300px;
     top: 10px;
-    position: absolute 
+    position: absolute
 }
 
 
@@ -33,7 +33,6 @@
     background-color: rgb(28, 51, 255);
     left: 40px;
     bottom: 0px;
-    z-index: 1;
     position: absolute
 }
 
