@@ -1,0 +1,58 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: xx-large;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: xx-large;
+    font-family: Helvetica
+}
+
+.colorfull {
+    width: 80px;
+    height: 3px;
+    background: linear-gradient(90deg,
+            hsl(120, 62%, 57%),
+            hsl(203, 92%, 59%),
+            hsl(268, 100%, 50%),
+            hsl(0, 80%, 61%),
+            hsl(25, 89%, 55%),
+            hsl(59, 96%, 57%));
+}
+
+.sections {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.box {
+    width: 550px;
+    height: 250px;
+    position: relative;
+
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+.text {
+    position: absolute;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+h4,
+p,
+.text,
+.img {
+    display: inline;
+}
